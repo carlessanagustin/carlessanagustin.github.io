@@ -1,0 +1,18 @@
+---
+layout: post
+status: publish
+published: true
+title: ">la meva pasada per la ciutat condal"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-04-11 23:23:00 +0000'
+categories:
+- My Blog
+tags:
+comments: []
+---
+<p>>
+<div style="float:right;margin-left:10px;margin-bottom:10px;"> <a href="http://www.flickr.com/photos/santopics/9130682/" title="photo sharing" target="_blank"><img src="http://photos4.flickr.com/9130682_ab5ba17480_m.jpg" alt="" /></a><br /><span style="margin-top:0;font-size:0;">  <a href="http://www.flickr.com/photos/santopics/9130682/" target="_blank">sopar can rubio 090405_01</a><br />Originally uploaded by <a href="http://www.flickr.com/people/santopics/" target="_blank">Frantic</a>. </span></div>
+<p>aquest cap de setmana he fet una rapida passada per catalunya. vaig arrivar divendres tard i vaig anar directament a casa dels meus pares a descansar. dissabte vaig tenir dinar de celebracio dels 73 anys de la meva <a href="http://www.flickr.com/photos/santopics/9131171/" target="_blank">mare</a> i el 28 meus, encara per arrivar. li vaig regalar un marc per fotus molt pop que ja te colocat al menjador. amb el merder normal que genera la familia san agustin morralla va ser un dinar molt divertit. despres del dinar vam anar a casa de muns pares a bufar les espelmes de la meva coca feta per mun <a href="http://www.flickr.com/photos/santopics/9131172/" target="_blank">pare</a> que estava la mar de bona...com els canalons i el calamars de la mami!! i com es troba a faltar el menjar de casa quan ets fora!!! em van regalar un <a href="http://www.casadellibro.com/fichas/fichabiblio/0,1094,2900001038951,00.html" target="_blank">llibre</a> i un <a href="http://www.unclesgames.com/product_info.php?ref=2&amp;products_id=617&amp;affiliate_banner_id=1" target="_blank">joc</a>!!!(que per falta d'espai aquest ultim l'he hagut de deixar).<br />per la nit va tocar festival al piset de'n <a href="http://www.flickr.com/photos/santopics/9130684/" target="_blank">roger rubio</a>, que ara comparteix amb en <a href="http://www.flickr.com/photos/santopics/9130683/" target="_blank">robertol</a> o <a href="http://www.arkanon.com/tmp/pics/roberto.jpg" target="_blank">robertof</a>, depen d'on miris; <a href="http://www.flickr.com/photos/santopics/9130682/" target="_blank">rubion, robertol, nyonyi, astrid fighter, runsy i tietol</a>. tantes tonteries vam fer i vam dir!! vam arreglar el mon en poques paraules!! saludus a la penya desde londres!!<br />diumenge vaig esmorzar amb mun germa, que era el que faltava al dinar, i tambe vam estar arreglan una mica mes el mon. despres de dinar ja vaig marxar cap a bcn a can <a href="http://www.arkanon.com/tmp/pics/runsy.jpg" target="_blank">runsy</a> per pillarli els cds que tenia meus i que em va fer una recompilation de musica nova: "emepetreses", la continuacio dels "say no more", recopilatoris famosos internacionalment per la seva poca qualitat musical...venint de qui venen, normal! la tornada va ser una mica estrellada...mes que estrellada, els estrellats dels anglesos que tenien parat tot l'aeroport d'stansted pel casament de l'orelles amb la tampacs. tenien unes cues de gent esperant al reconeixement de documents!! el mes curios es que vaig arrivar junt amb un avio provenent de napols i vaig sentir-me alli de nou...el "frate" inconfundible sortint de les seves boques. fins aqui el meu reportatge.<br />salut!<br /><span style="color:rgb(0,153,0);font-weight:bold;">musica: <a href="http://www.artistdirect.com/nad/music/artist/card/0,,659291,00.html?src=redirsearch&amp;artist=Soulfly" target="_blank">soulfly</a></span></p>

@@ -1,0 +1,44 @@
+---
+layout: post
+status: publish
+published: true
+title: ">las rutas"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2008-07-03 11:42:00 +0000'
+categories:
+- My Blog
+tags:
+- excursiones
+- india
+- nepal
+- rutas
+- trekking
+comments:
+- id: 172
+  author: Anonymous
+  author_url: http://Anonymousnoreply@blogger.com
+  date: '2008-07-10 18:09:00 +0000'
+  content: ">Holaa titafluixaaa!!s&oacute;c la P&auml;ivi...t'enrecordes? la Gironina
+    que no va ser capa&ccedil; de veure la costa brava al perfil del ganga de nit...avui
+    m'has vingut al cap no se perqu&egrave; i he decidit entrar de nou al teu blog...impressionant!
+    pensar que encara ets per aquelles terres! enveja pura i dura!! Jo ja fa 2 mesos
+    que vaig tornar de la meva estancia trimestal a la India... la trobo a faltar
+    i molt... Aqui la vida continua com sempre continua a Catalunya...calor i estr&eacute;s
+    a la feina...gens recomenable!! aixi que la idea de marxar em torna a rondar pel
+    cap i crec que cap al Novembre....Una abra&ccedil;ada ben forta a milers de kilometres!
+    espero que estiguis molt be!Namasteeee P&auml;ivi"
+---
+<p>>por el valle de <a href="http://en.wikipedia.org/wiki/Parvati_Valley">parvati</a> (<a href="http://en.wikipedia.org/wiki/Himachal_Pradesh">himachal pradesh</a>, <a href="http://en.wikipedia.org/wiki/India">india</a>) hice un par de excursiones:
+<ol>
+<li><span style="font-weight:bold;">chhalal</span> > rasol > uram > gaur > chojha <span style="font-weight:bold;">>>></span> <span style="font-weight:bold;">chhalal</span><br />(con paradas incluidas fueron 9 horas en total)</li>
+<p>
+<li>manikaran > pulga > <span style="font-weight:bold;">calga</span> > khirganga (5 horas en total y noche en khirganga)<br />> rudrenak > nactana > barshemi <span style="font-weight:bold;">>>></span> <span style="font-weight:bold;">calga</span> (4 horas en total)</li>
+</ol>
+<p>por el valle de <a href="http://en.wikipedia.org/wiki/Pokhara_Valley">pokhara</a> (<a href="http://en.wikipedia.org/wiki/Nepal">nepal</a>) hice la gran excursi&oacute;n:
+<ol>
+<li><span style="font-weight:bold;">pokhara</span> > phedi > deurali > jhinu > sinuwa > ABC (5 d&iacute;as de subida)<br />> sinuwa > jhinu > naya pul >>> <span style="font-weight:bold;">pokhara</span> (3 d&iacute;as de bajada)</li>
+</ol>
+<p>todas ellas recomendadas, pero sobretodo mirad que el clima sea agradable a la vista, pq caminar entre la niebla es muchas veces psicol&oacute;gicamente cansino.<br />saludos!</p>

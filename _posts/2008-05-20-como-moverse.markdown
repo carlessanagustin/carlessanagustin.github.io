@@ -1,0 +1,41 @@
+---
+layout: post
+status: publish
+published: true
+title: ">como moverse?"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2008-05-20 11:59:00 +0000'
+categories:
+- My Blog
+tags:
+- bus
+- india
+- reflexiones
+- tren
+comments:
+- id: 157
+  author: Anonymous
+  author_url: http://Anonymousnoreply@blogger.com
+  date: '2008-06-09 13:41:00 +0000'
+  content: ">Que envidiaaaa!!!!!!!! Ay chico, que veo que est&aacute;s diefrutando
+    a tope, que me alegro mucho, que estoy mu contento por ti snif! y que me est&aacute;s
+    emocionando y todo con tantqa aventura. Y que se te echa de menos pill&iacute;n,
+    que ya tengo ganas de que vengas y me des la brasa con tu viaje y tus afotos y
+    tus an&eacute;cdotas y tus cosas... Cu&iacute;date muchisisisisisimo y a seguir
+    disfrutando a tope!!!CiaoooooooooPablo"
+- id: 158
+  author: Anonymous
+  author_url: http://Anonymousnoreply@blogger.com
+  date: '2008-06-10 20:21:00 +0000'
+  content: ">Cada persona brilla con luz propia entre todas las dem&aacute;s.No hay
+    dos fuegos iguales. Hay fuegos grandes y fuegos chicos y fuegos de todos los colores.
+    Hay gente de fuego sereno, que ni se entera del viento, y gente de fuego loco,
+    que llena el aire de chispas. Algunos fuegos, fuegos bobos, no alumbran ni queman;
+    pero otros arden la vida con tantas ganas que no se puede mirarlos sin parpadear,
+    y quien se acerca, se enciende..Las fotografias impactantes, deslumbrantes..la
+    verdadera cara de chenai..una sonrisa en cada bajito...Aborigen"
+---
+<p>>en un pa&iacute;s donde se comparte el transporte por falta de recursos, como poner 1.2 billones de personas en la carretera? hay muy poca infraestructura vial y ya es un <a href="http://en.wikipedia.org/wiki/Kaos">caos</a>! gran numero de camiones de mercanc&iacute;as circulan entre pueblos y ciudades mientras la mayor&iacute;a de gente comparte autob&uacute;s, tren, <a href="http://en.wikipedia.org/wiki/Rickshaw">rickshaw</a> y taxis para desplazarse. parece como si los turismos fueran objeto de lujo.<br />una red de autobuses que permite llegar a cualquier punto del pa&iacute;s pero comparando con mis est&aacute;ndares europeos pq aqu&iacute; vive mucha gente en zonas remotas donde llegar a pie o a burro son la &uacute;nica forma. j&oacute;venes y mujeres transportan mercanc&iacute;as o ni&ntilde;os hasta poblaciones mas comunicadas. se transportan generadores y neveras donde no hay electricidad ni tel&eacute;fono, donde la b&uacute;squeda de se&ntilde;al telef&oacute;nico es un pasatiempos. autobuses p&uacute;blicos y autobuses privados todos transportan mercanc&iacute;as y personas pero unos mas organizados que otros. en el sur mas humedad, mas calor, mas ruido, mas contacto, mas violencia. puede que haya pasado demasiado tiempo en el sur. el autob&uacute;s es siempre una caja de sorpresas. empujones y apretujones, griter&iacute;o de quejas e insultos para entrar en el despu&eacute;s de asistir al templo, abuelas cayendo al perder el equilibrio de los que las echan para atr&aacute;s la cola, otros colocando pa&ntilde;uelos en los asientos a trav&eacute;s de las ventanas  marcando as&iacute; su territorio (aun mejor es saber que se le respeta el asiento). algunos aprovechan el corto recorrido para practicar su ingles. conductores y controladores dan ordenes gritando. muchos me ofrecen asiento pero muy pocos ofrecen su asiento a otro mas necesitado. se pasan dinero de mano en mano para pagar el trayecto y se dicen la destinaci&oacute;n entre ellos como si de una contrase&ntilde;a se tratara. los conductores-barman pq usan el autob&uacute;s de coctelera. las carreteras y conducci&oacute;n de otros tambi&eacute;n son factor importante, pero esos volantazos, esos frenazos, ...desplazan a uno las tripas y algunas veces hasta a uno mismo entero! aconsejo no apoyarse en los autobuses, nunca se sabe si a alguno la tripa le dio mas vueltas de lo de que deb&iacute;a.se viaja de d&iacute;a y de noche pero con tanta gente siempre! el mejor transporte para viajar al presente, al imprevisto, sin planes prefijados.<br />con el tren se debe uno organizar con antelaci&oacute;n y mas aun en periodo vacacional indio cuando 1.2 billones de personas quieren ver sus familiares o templos esparci&eacute;ndose por todo el pa&iacute;s. mis requerimientos m&iacute;nimos son una cama alta en un vag&oacute;n sin aire acondicionado pq no creo conveniente torturarme en una silla de madera con empujones y claustrofobia humana durante las 14 horas que puede durar el trayecto. atar la mochila con cadena y candado es b&aacute;sico, como tambi&eacute;n lo es alg&uacute;n que otro <a href="http://en.wikipedia.org/wiki/Chai">chai</a>. comida y bebida llega por todos lados pero no esperes coj&iacute;n ni manta. gritos ofreciendo chai caliente son los que normalmente me despiertan. como son los primeros en levantarse despu&eacute;s de una noche movidita en el tren gritan como sopranos para joder a los que probamos de dormir. los de 1a clase en lista de espera pasan a 2a por falta de espacio en 1a. los de 2a en lista de espera pueden subir al tren tambi&eacute;n. los de 3a pueden pasarse a 2a pagando un poco mas cuando 3a no les permite respirar. los que ya durmieron por la noche revenden su cama a dos o tres que se la pasaron hablando sentados sobre madera dura. ni&ntilde;os y ni&ntilde;as menores de 5 a&ntilde;os viajan gratis y aqu&iacute; una familia normal tiene 4 hijos, pero primos y sobrinos tambi&eacute;n se apuntan a la excursi&oacute;n familiar. y todos terminan en el mismo compartimento como el oce&aacute;nico compartimento loco de los <a href="http://en.wikipedia.org/wiki/Marx_brothers">hermanos marx</a>. las barradas ventanas se vuelven un pasatiempo, disfrutando de las vistas cambiantes; historia, sociedad, cultura, naturaleza. estaciones poco se&ntilde;alizadas. al entrar; grupos de empujones, correteos y nervios para conseguir un asiento. al salir; colas de espera para ser los mas r&aacute;pidos en bajar y bloquear la salida a los dem&aacute;s con su calma. algunos refresc&aacute;ndose colgados de sus puertas dan la sensaci&oacute;n de claustrofobia en su interior. paradas interminables por falta de carriles. puentes levadizos repletos de maquinas motorizadas varias a la espera intranquila de luz verde; permiso para empezar la serenata de claxones y acelerones.<br />otro medio de transporte com&uacute;n son los auto-rickshaw. son f&aacute;ciles de reconocer por su man&iacute;a persecutoria a la caza del blanco perfecto. como sanguijuelas, como mosquitos se enganchan y chupan lo m&aacute;ximo posible, puede que en otras reencarnaciones lo fuesen. algunas veces se organizan en peque&ntilde;as mafias pero eso si se entienden entre ellos primero. proh&iacute;ben la circulaci&oacute;n de autobuses a zonas tur&iacute;sticas para as&iacute; forzar al turista a su uso con sus condiciones y sus precios. otros requieren pasar un ojo por los negocios locales con el objetivo de cobrar comisi&oacute;n econ&oacute;mica o f&iacute;sica. cuando corran hacia ti, ante todo mucha calma y ign&oacute;ralos, pero piensa que no dejan la presa f&aacute;cilmente, siguen en procedimiento secreto que solo entienden ellos; desgaste psicol&oacute;gico, y es que son pesados! se acuerdan f&aacute;cilmente de las caras  as&iacute; que probaran sucesivamente. ofrecen precios hinchados el doble justo al lado de la oficina de pre-pago. enga&ntilde;an y mienten sin cesar; ofrecen negocios alternativos al pedido por razones catastrales o horarias incompatibles. fantasean con distancias entre origen y destino. dan direcciones incorrecta a la vez que se ofrecen para llevarnos por nuestra imposibilidad. son testarudos, mantienen la mentira aunque se les muestre la verdad. precios acordados por cifras separadas para no haber mal entendidos. entre ellos muchos se encaran por su gran competitividad. no solo as&iacute; act&uacute;an con turistas, con los locales hacen lo mismo; no es raro escuchar gritos y comentarios despreciativos. en el regateo ellos siempre ganan sino encuentras alguno de buen coraz&oacute;n o nuevo en el oficio, por eso ofrece pagos bajos y sube hasta tu precio justo solo para darles la satisfacci&oacute;n y poder continuar el viaje.<br />saludos!</p>

@@ -1,0 +1,28 @@
+---
+layout: post
+status: publish
+published: true
+title: ">star wars"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-06-09 22:42:00 +0000'
+categories:
+- My Blog
+tags:
+comments:
+- id: 57
+  author: Anna
+  author_url: http://www.blogger.com/profile/13180900505015507071
+  date: '2005-06-13 13:58:00 +0000'
+  content: ">wala walaaaa em qedo am dj vader!!!! jejejee 1pet&oacute;!"
+---
+<p>>
+<div style="text-align:center;"><a href="http://www.8bitclassics.com/images/a26-star%20wars%20-%20esb_pic2.jpg" target="_blank"><img src="http://www.synthstuff.com/mt/archives/R2D2-Dog.jpg" width="250" /></a></div>
+<p> com a bon fan d'<a href="http://www.starwars.com/" target="_blank">star wars</a> que soc no podia deixar passar la oportunitat de mostrar-vos el que he trobat <a href="http://www.yonkis.com/" target="_blank">a</a>:
+<ul>
+<li><a href="http://www.yonkis.com/media/star_wars_bso.wmv" target="_blank">star wars bso</a></li>
+<li><a href="http://www.yonkis.com/media/dj_vader_mola.wmv" target="_blank">dj vader</a></li>
+</ul>
+<p> salut!<br /><span style="color:rgb(0,153,0);font-weight:bold;">musica: </span><a style="color:rgb(0,153,0);font-weight:bold;" href="http://www.artistdirect.com/nad/music/artist/card/0,,1677010,00.html?src=search&amp;artist=Love+Joys" target="_blank">love joys</a></p>

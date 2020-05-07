@@ -1,0 +1,32 @@
+---
+layout: post
+status: publish
+published: true
+title: ">atemptat"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-07-07 14:04:00 +0000'
+categories:
+- My Blog
+tags:
+- evento
+comments:
+- id: 65
+  author: FrantIc
+  author_url: http://santo.webhop.net
+  date: '2005-07-07 16:01:00 +0000'
+  content: '><a href="http://www.boingboing.net/2005/07/07/photos_related_to_lo.html"
+    rel="nofollow">aqui</a> teniu una bona col-leccio de fotografies sobre el que
+    ha passat.salut!'
+- id: 66
+  author: Anna
+  author_url: http://www.blogger.com/profile/13180900505015507071
+  date: '2005-07-08 22:17:00 +0000'
+  content: ">nen, qe fort el q a passat.. osties putes d veritat qe es x flipar. Millor
+    q estiguis be... (vaja resaca qe postava avui, em parlar aqest mati i... :S) bueno
+    mols mols petons!*esperu q poguem parlar aqesta nit... smuaK"
+---
+<p>><a href="http://news.bbc.co.uk/hi/spanish/photo_galleries/newsid_4659000/4659555.stm"><img src="http://news.bbc.co.uk/media/images/41277000/jpg/_41277449_bus_close_reader.jpg" alt="atemptat" border="0" /></a><br />pels qui no podeu contactar amb mi, estic be, no m'ha passat res, tot i que treballo a aldgate east i es on em tingut mes morts (de moment). aixo es un caos total; helicopters per tots llocs, transports parats, sirenes sense parar, gent pel carrer, les informacions son variades e insegures, ... els d'aqui l'oficina estan buscan la forma de tornar a casa o quedar-se a dormir, pero els hotels ja estan plens. les autoritats londinesas recomanen no moure's del lloc on estem fins que es calmi la situacio. els telefons movils no han funcionat fins ara mateix que m'han arrivat 4 sms de cop.<br />aqui teniu les estacions afectades tot i que no surt l'autobus tambe involucrat:</p>
+<p><a href="http://newsimg.bbc.co.uk/media/images/41276000/gif/_41276891_london_tube_map416.gif"><img src="http://newsimg.bbc.co.uk/media/images/41276000/gif/_41276891_london_tube_map416.gif" alt="zones afectades" border="0" /></a><br />per sort he arrivat una hora abans al treball pq les explosions han estat a les 9, quan jo entro. desde on soc no s'han sentit cap explosio, sino directament el merder de gent amunt i aball i les sirenes que encara no han parat.<br />provare d'anar informant desde l'oficina, aqui estem tots conectats a <a href="http://today.reuters.co.uk/news/default.aspx" target="_blank">reuters</a>, <a href="http://www.bbc.co.uk/" target="_blank">bbc</a> i <a href="http://www.bloomberg.com/" target="_blank">bloomberg</a>.<br />salut!</p>

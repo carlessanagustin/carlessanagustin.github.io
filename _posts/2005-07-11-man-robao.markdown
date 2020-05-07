@@ -1,0 +1,46 @@
+---
+layout: post
+status: publish
+published: true
+title: ">man robao!!"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-07-11 13:45:00 +0000'
+categories:
+- My Blog
+tags:
+- reflexiones
+comments:
+- id: 69
+  author: Anna
+  author_url: http://www.blogger.com/profile/13180900505015507071
+  date: '2005-07-12 20:10:00 +0000'
+  content: ">:| ja tinc una passada amb aixo.... (sort qe ta tornen la pasta)"
+- id: 70
+  author: FrantIc
+  author_url: http://santo.webhop.net
+  date: '2005-07-13 10:09:00 +0000'
+  content: '>"espero" que em tornin la pasta...tot depen del banc, pq la targeta no
+    era de credit, sino de debit, i aquestes no tenen seguru associat. pero jo estic
+    bastant possitiu respecte aixo...sol cal esperar.merces i salut!'
+- id: 71
+  author: Anna Sayol
+  author_url: http://www.blogger.com/profile/10809880483012828363
+  date: '2005-07-14 18:53:00 +0000'
+  content: ">Jajajajajajajajaja.... Tot i provocar-me ganes de riure &eacute;s una
+    santa putada. Si pots demostrar que no has tret la pasta tu, te la tornen. Aqu&iacute;
+    passen per l&#039;autopista i paguen benzina, els molt cabrons. I el banc et torna
+    els calers.Si necessites pasta, ja ho saps!! Per cert, all&ograve; teu i meu de
+    la Caixa Catalunya ja est&agrave; solucionat. Ara ja no em pots robar pasta!!!!!!
+    Petons popeye"
+- id: 72
+  author: FrantIc
+  author_url: http://santo.webhop.net
+  date: '2005-08-19 17:49:00 +0000'
+  content: '>la noticia:<a href="http://delitosinformaticos.com/noticias/104300642334670.shtml"
+    rel="nofollow">Delincuentes utilizaban sofisticados m&eacute;todos para duplicar
+    tarjetas de cr&eacute;dito [19-01-03]</a>salut!'
+---
+<p>><a><img src="http://www.pickingpockets.com/pickpocket_4.JPG" alt="man robao!!" border="0" /></a><br />pozi senyors i senyores, algu s'ha dedicat a fer un clon de la meva nova targeta de debit anglesa i desde dissabte que m'estaven foten el maxim permes treure desde un caixer automatic, &pound;250 (uns &euro;360) al dia, que son &pound;720 (&euro;1045)en total. sol espero que em retornin tot sense cap problema tot i que m'han dit que aixo porta de 7 a 14 dies. aixi que ja no tinc targeta, he demanat una de nova pero de moment tindre d'anar a l'oficina a buscar pasta. aquest mati he hagut d'anar a fer la denuncia i passar pel banc a rellenar alguns paperots pq em retornin els quartus...pero ya veieu la meva aventura; a napols no em roban (que te tela) i aqui los reyes de la tecnologia em clonan la targeta de debit i em pillen el pin...pa flipar. estigueu atents!!<br />salut!!<br /><span style="font-weight:bold;color:rgb(0,153,0);">musica: </span><a style="font-weight:bold;color:rgb(0,153,0);" href="http://www.rfimusique.com/siteEn/discographie/discographie_76.asp" target="_blank">FFF</a></p>

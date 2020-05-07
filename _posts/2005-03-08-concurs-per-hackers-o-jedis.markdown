@@ -1,0 +1,21 @@
+---
+layout: post
+status: publish
+published: true
+title: ">concurs per hackers o jedis??"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-03-08 14:40:00 +0000'
+categories:
+- My Blog
+tags:
+comments: []
+---
+<p>>el 3 de mars (perdoneu per les c trencades pero treballo a italia i aixo aqui no ho coneixen...si que podria currarmu una mica mes pero soc un perro) va sortir a vilaweb la noticia que una empresa de Molins de Rei feia un concurs de hacking:</p>
+<p><a href="http://nosaltres.vilaweb.com/info/vilaweb/cerca_u.noticia?p_idint=100000967658" target="_blank"><span style="font-weight:bold;font-style:italic;">Una empresa inform&agrave;tica de Molins de Rei organitza un concurs per a desafiar els 'hackers' del pa&iacute;s</span></a><br /><span style="font-style:italic;">03/03/2005  (Edici&oacute;:  GENERAL )</span><br /><span style="font-style:italic;">Dintre la </span><a style="font-style:italic;" href="http://www.fesinternet.net/" target="_blank">FesInternet</a><span style="font-style:italic;">, la festa d'internet del Principat que s'acabar&agrave; diumenge, l'empresa </span><a style="font-style:italic;" href="http://www.xifra.net/" target="_blank">Xifra</a> de Molins de Rei (Baix Llobregat) torna a convocar el concurs 'Internet segur', adre&ccedil;at a &lsquo;hackers&rsquo; i experts inform&agrave;tics. Xifra vol desafiar els &lsquo;hackers&rsquo; a descobrir un fitxer secret de text, situat en un servidor segur, que funcionar&agrave; des d'avui al 17 de novembre d'enguany. El premi &eacute;s de 12.000 euros, per&ograve; solament se l&rsquo;endur&agrave; qui aconsegueixi de recuperar i modificar el contingut d'aquest fitxer secret. 'Internet segur' es presenta avui a dos quarts de sis del vespre a l'edifici Sant Jaume de <a style="font-style:italic;" href="http://www.salleurl.edu/" target="_blank">la Salle</a><span style="font-style:italic;"> de Barcelona. Cal recordar que els dos concursos organitzats fins ara per Xifra s&rsquo;han declarat deserts. L'</span><a style="font-style:italic;" href="http://www.xifra.net/cat/50_noti_140504.htm" target="_blank">any passat</a><span style="font-style:italic;">, per exemple, no hi va haver cap &lsquo;hacker&rsquo; capa&ccedil; de vulnerar ni el primer nivell de seguretat dels cinc que protegien el servidor 'atacable'. I aix&ograve; que, segons la mateixa empresa, s&rsquo;hi van enregistrar set-cents mil atacs.</span></p>
+<p>pel que m'he informat, aixo es tracta d'una estrategia comercial de la mateixa empresa per esser coneguda i reconeguda com la mes segura, pero no es aixi. aquesta es l'observacio de'n <a href="http://pof.eslack.org" target="_blank">pof</a> sobre el tema:</p>
+<p><span style="font-style:italic;">Aquesta empresa no te molt bona reputaci&oacute; en el mon 'under', son els pringats que van montar un altre concurs similar al internet Global Congres. Nom&eacute;s busquen que guanyar-se popularitat fen concursos q no tenen ni cap ni peus. En el cas del IGC van posar una m&agrave;quina q nomes tenia obert el port 80 amb la &uacute;ltima versi&oacute; de apache, sense php i sense cap web q tingues contingut din&agrave;mic ni bbdd per darrera... no tenia res m&eacute;s obert i era la &uacute;ltima versi&oacute; sense cap fallo conegut. L'objectiu del concurs era modificar la web est&agrave;tca que mostrava el servidor, la &uacute;nica manera era trovar-li una vulnerabilitat a la &uacute;ltima versi&oacute; d'apache.... no tenia sentit atacar la maquina, si es volia guanyar el concurs el que s'havia de fer era auditar el c&oacute;di del apache. Evidentment que no va guanyar ning&uacute;, pero ells es penjen les medalles de que els seus sistemes son els mes seugrs i aix&ograve; &eacute;s el que venen als medis i es menja la gent.</span></p>
+<p>aqui podeu trobar mes comentaris al respecte:<br /><a href="http://www.caballe.com/2005/03/08.html#a4924" target="_blank">Concurs &laquo;Internet Segura&raquo; per a hackers</a><br /><a href="http://www.7a69ezine.org/node/view/48" target="_blank">Una tarde en el IGC</a></p>
+<p>no enganyem a la gent que no sap, no usem la seva ignorancia per enriquir les nostres butxaques.</p>

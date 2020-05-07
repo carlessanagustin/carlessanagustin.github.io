@@ -1,0 +1,17 @@
+---
+layout: post
+status: publish
+published: true
+title: ">lectures"
+author:
+  display_name: Carles
+  url: http://www.carlessanagustin.com/
+author_url: http://www.carlessanagustin.com/
+date: '2005-08-11 14:28:00 +0000'
+categories:
+- My Blog
+tags:
+- reflexiones
+comments: []
+---
+<p>>aquesta setmana m'he comprat dos llibres; una guia de viatje per preparar-me per novembre i un classic de la literatura castellana:<br /><a href="http://www.amazon.com/exec/obidos/tg/detail/-/1843533960/qid=1123760431/sr=8-4/ref=pd_bbs_4/102-2761313-5737733?v=glance&amp;s=books&amp;n=507846" target="_blank"><img src="http://images.amazon.com/images/P/1843533960.01._AA240_SCLZZZZZZZ_.jpg" alt="Rough Guide to Tunisia" border="0" /></a><br />dons si, pel novembre m'he agafat els meus ultims 9 dies de vacances i marxo cap a <a href="http://go.hrw.com/atlas/span_htm/tunisia.htm" target="_blank">tunisia</a>, a veure que em depara el desti alli...<br /><a href="http://www.amazon.com/exec/obidos/tg/detail/-/8420467286/qid=1123760478/sr=8-1/ref=pd_bbs_1/102-2761313-5737733?v=glance&amp;s=books&amp;n=507846" target="_blank"><img src="http://images.amazon.com/images/P/8420467286.01._AA240_SCLZZZZZZZ_.jpg" alt="Don Quijote de la Mancha" border="0" /></a><br />per altre banda sempre havia tingut curiositat de lleguir el <a href="http://www.stat.ucl.ac.be/cours/fsat5/quijote.jpg" target="_blank">Quixot</a> i mes ultimament que tot llibre que tenia entre mans feia referencia a aquesta obra mestre classica. pels curiosos no l'he comprat en angles, l'he comprat en castella com es normal i en una edicio de viatje dividida en 3 volums. de moment a pel primer d'ells!<br />aixi que estare ocupat per un bon temps, de moment lleguin la guia i preparan les <a href="http://www.kirikou.com/tunez/tunez.htm" target="_blank">rutes</a> que em fare per alli.<br />salut!<br /><span style="color:rgb(0,153,0);font-weight:bold;">musica: </span><a style="color:rgb(0,153,0);font-weight:bold;" href="http://www.amontobin.com/" target="_blank">amon tobin</a></p>
