@@ -6,15 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
+title:       carlessanagustin.com
 email:       ''
-description: ''
+description: 'DevOps Passionate'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
-twitter:     ''
-github:      ''
-instagram:   ''
-facebook:    ''
+url:         'https://carlessanagustin.com' # The base hostname & protocol for your site
+
+twitter:     'https://twitter.com/carlesanagustin'
+github:      'https://github.com/carlessanagustin/'
+linkedin:    'https://www.linkedin.com/in/carlessanagustin/'
+youtube:     'https://www.youtube.com/playlist?list=PLF3EgRIVV_yR5JuitW2TwVe3bvYtPh7zK'
 
 markdown:  kramdown
 permalink: pretty
