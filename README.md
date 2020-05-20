@@ -1,3 +1,27 @@
+This is my personal website based on "Type: Minimal and Clean Free Jekyll Theme"
+
+# TODO
+
+[X] - change image url http://www.carlessanagustin.com/wp-content/uploads to /images/posts
+[X] - remove email
+[X] - add pages
+[X] - footer icons + linkedin
+[ ] - fix pages
+[ ] - search & fix: TODO
+[ ] - search & fix: iframes
+[ ] - search & fix: gallery
+[ ] - search & fix: `<pre>`
+[ ] - search & fix: `![](`
+
+# Usage
+
+* Requirements: docker + make
+* From local workstation `make interactive`
+* Once inside the container run `make go`
+* See site `http://127.0.0.1:4000`
+
+---
+
 # Type: Minimal and Clean Free Jekyll Theme
 
 <img alt="Type: Minimal and Clean Free Jekyll Theme" src="https://user-images.githubusercontent.com/626005/63093493-c3daa880-bf65-11e9-860e-da88047cce24.png">
