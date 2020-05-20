@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-04-19 16:04:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - india
 - kochi

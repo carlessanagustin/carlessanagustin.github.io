@@ -11,7 +11,7 @@ excerpt: "[:es]Cómo aprovisionar contenedores Docker utilizando Playbooks de An
   to provision Docker containers using Ansible Playbooks.[:]"
 date: '2015-06-08 12:30:01 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - devops
 - ansible

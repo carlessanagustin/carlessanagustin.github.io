@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2011-06-24 23:39:37 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - fotografia
 - lightroom

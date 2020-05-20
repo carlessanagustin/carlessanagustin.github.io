@@ -14,7 +14,7 @@ excerpt: "<!--:es-->Pequeño script de Python diseñado para volcar bases de dat
   <!--:-->"
 date: '2011-01-13 20:18:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - mysql

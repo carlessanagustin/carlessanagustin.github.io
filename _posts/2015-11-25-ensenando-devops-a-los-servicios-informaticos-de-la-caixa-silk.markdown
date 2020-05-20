@@ -12,7 +12,7 @@ excerpt: "[:es]Profesor de DevOps para los Servicios Informáticos de La Caixa (
 date: '2015-11-25 10:36:51 +0000'
 image: '/images/posts/2015/11/AITM-dia-1.jpg'
 categories:
-- My Work
+- Work
 tags:
 - teach
 - curso

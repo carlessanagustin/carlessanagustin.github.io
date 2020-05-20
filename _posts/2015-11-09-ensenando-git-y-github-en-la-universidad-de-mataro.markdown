@@ -10,7 +10,7 @@ author_url: http://www.carlessanagustin.com/
 excerpt: "[:es]Enseñando a profesores universitarios.[:en]Teaching university teachers.[:]"
 date: '2015-11-09 13:30:02 +0000'
 categories:
-- My Work
+- Work
 tags:
 - git
 - teaching

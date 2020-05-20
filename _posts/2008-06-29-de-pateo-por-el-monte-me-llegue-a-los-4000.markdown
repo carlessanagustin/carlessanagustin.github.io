@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-06-29 14:50:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - nepal
 - annapurna

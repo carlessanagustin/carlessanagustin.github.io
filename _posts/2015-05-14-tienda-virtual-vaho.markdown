@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "[:es]Tienda virtual Vaho[:en]Vaho e-commerce[:]"
+title: "Vaho e-commerce"
 author:
   display_name: Carles
   url: http://www.carlessanagustin.com/
@@ -18,6 +18,6 @@ tags:
 - consulting
 comments: []
 ---
-<p>[:es]Tienda virtual de accesorios unisex de material reciclado.</p>
-<p>[gallery ids="2466,2467,2468,2469,2470"][:en]Online store of unisex accessories made from recycled material.</p>
-<p>[gallery ids="2466,2467,2468,2469,2470"][:]</p>
+TODO
+Online store of unisex accessories made from recycled material.
+[gallery ids="2466,2467,2468,2469,2470"]

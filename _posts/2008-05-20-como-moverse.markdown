@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-05-20 11:59:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - bus
 - india

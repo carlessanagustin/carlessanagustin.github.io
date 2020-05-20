@@ -9,19 +9,19 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2012-05-17 13:05:59 +0000'
 categories:
-- My Blog
+- Blog
 tags:
-- fotografia
+- photography
 - photoshop
 comments: []
 ---
-<p>Esta es una operaci&oacute;n sencilla pero que requiere pr&aacute;ctica. El procedimiento es:</p>
-<ol>
-<li>Crear nueva capa en modo Soft Light relleno al 50% de gris.</li>
-</ol>
-<div><a href="/images/posts/contorno.png"><img class="aligncenter size-full wp-image-785" src="/images/posts/contorno.png" alt="nueva capa" width="380" height="131" /></a></div>
-<ol>
-<li>Con la herramienta Brush pintamos encima las zonas que deseamos realzar. Recordar que para tonos oscuros debemos usar color negro y para tonos claros usar el blanco.</li>
-<li>Una vez tengamos el proceso anterior terminado usaremos Filter > Gaussian Blur para dar naturalidad a la imagen.</li>
-</ol>
-<p>Saludos!</p>
+Esta es una operación sencilla pero que requiere práctica. El procedimiento es:
+
+1.  Crear nueva capa en modo Soft Light relleno al 50% de gris.
+TODO
+[![nueva capa](/images/posts/contorno.png)](/images/posts/contorno.png)
+
+1.  Con la herramienta Brush pintamos encima las zonas que deseamos realzar. Recordar que para tonos oscuros debemos usar color negro y para tonos claros usar el blanco.
+2.  Una vez tengamos el proceso anterior terminado usaremos Filter > Gaussian Blur para dar naturalidad a la imagen.
+
+Saludos!

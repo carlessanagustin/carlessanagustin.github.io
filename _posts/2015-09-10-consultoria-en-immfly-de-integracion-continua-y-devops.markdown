@@ -11,7 +11,7 @@ excerpt: "[:es]Formación y consultoría de Integración Continua y DevOps para 
   Immfly.[:en]Training and consultancy in Continuous Integration and DevOps for Immfly.[:]"
 date: '2015-09-10 13:05:12 +0000'
 categories:
-- My Work
+- Work
 tags:
 - devops
 - continuous deployment

@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2010-12-23 18:03:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - drivers

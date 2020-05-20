@@ -16,7 +16,7 @@ excerpt: "[:es]Video tutorial: Proceso de creación de Playbooks de Ansible para
   environment on Amazon Web Services (AWS).[:]"
 date: '2015-08-20 18:05:54 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - ubuntu
 - git

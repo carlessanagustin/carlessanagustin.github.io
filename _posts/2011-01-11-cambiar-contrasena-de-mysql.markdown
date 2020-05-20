@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2011-01-11 18:38:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - mysql

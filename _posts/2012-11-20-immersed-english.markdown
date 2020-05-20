@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "<!--:es-->Immersed English<!--:--><!--:en-->Immersed English<!--:-->"
+title: "Immersed English"
 author:
   display_name: Carles
   url: http://www.carlessanagustin.com/
@@ -11,7 +11,7 @@ excerpt: "<!--:es-->Compañia que ofrece cursos de inmersión al inglés en Winc
   offering English immersion courses in Winchester.<!--:-->"
 date: '2012-11-20 01:23:35 +0000'
 categories:
-- My Work
+- Work
 tags:
 - wordpress
 - consulting
@@ -32,7 +32,7 @@ comments:
     recommend him to others looking for help with their website. Thanks Carles!\r\n\r\nFran
     Austin - Immersed English Director.\r\n"
 ---
-<p><!--:es-->Compa&ntilde;ia que ofrece cursos de inmersi&oacute;n al ingl&eacute;s en Winchester, Reino Unido UK. <a title="Immersed English" href="http://www.immersedenglish.com" target="_blank">LINK</a></p>
-<p>[nggallery id=3]<!--:--><!--:en-->Company offering English immersion courses in Winchester, UK. <a title="Immersed English" href="http://www.immersedenglish.com" target="_blank">LINK</a></p>
-<p>[nggallery id=3]<br />
-<!--:--></p>
+Company offering English immersion courses in Winchester, UK. [LINK](http://www.immersedenglish.com "Immersed English")
+
+TODO
+[nggallery id=3]

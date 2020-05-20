@@ -9,18 +9,16 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2012-08-22 20:11:42 +0000'
 categories:
-- My Blog
+- Blog
 tags:
-- fotografia
+- photography
 - photoshop
 comments: []
 ---
-<ol>
-<li>Duplicamos la capa que deseamos agudizar encima de la original.</li>
-<li>Filter > Other > High Pass.</li>
-<li>El radio usado para este filtro es algo personal. Recomiendo hacer pruebas hasta quedar contentos con el resultado final. Normalmente yo uso entre 3 y 5 pixels.</li>
-<li>Image > Adjustments > Hue/Saturation.</li>
-<li>Situamos la saturaci&oacute;n total a -100 (pasamos la capa a blanco y negro).</li>
-<li>Cambiamos el modo de la capa a Soft Light.</li>
-<li>Recordemos que podemos usar opacidad y mascara de capa para&nbsp;acotar la zona e intensidad.</li>
-</ol>
+1.  Duplicamos la capa que deseamos agudizar encima de la original.
+2.  Filter > Other > High Pass.
+3.  El radio usado para este filtro es algo personal. Recomiendo hacer pruebas hasta quedar contentos con el resultado final. Normalmente yo uso entre 3 y 5 pixels.
+4.  Image > Adjustments > Hue/Saturation.
+5.  Situamos la saturación total a -100 (pasamos la capa a blanco y negro).
+6.  Cambiamos el modo de la capa a Soft Light.
+7.  Recordemos que podemos usar opacidad y mascara de capa para acotar la zona e intensidad.

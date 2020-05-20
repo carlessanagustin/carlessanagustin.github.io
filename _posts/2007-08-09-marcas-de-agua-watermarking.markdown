@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2007-08-09 11:42:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - fotografia
 comments:

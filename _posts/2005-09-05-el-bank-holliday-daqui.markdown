@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2005-09-05 11:46:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - reflexiones
 comments:

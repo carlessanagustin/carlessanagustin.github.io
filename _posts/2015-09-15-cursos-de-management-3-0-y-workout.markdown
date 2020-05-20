@@ -11,7 +11,7 @@ excerpt: "[:es]Asistí a unos cursos de Management 3.0 y Workout.[:en]Attended a
   of Management 3.0 & Workout.[:]"
 date: '2015-09-15 19:35:18 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - agile
 - lean

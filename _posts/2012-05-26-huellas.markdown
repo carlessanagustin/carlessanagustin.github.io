@@ -2,7 +2,7 @@
 layout: post
 status: publish
 published: true
-title: "<!--:es-->Huellas<!--:--><!--:en-->Track<!--:-->"
+title: "Tracks"
 author:
   display_name: Carles
   url: http://www.carlessanagustin.com/
@@ -11,12 +11,12 @@ excerpt: "<!--:es-->Proyecto personal fotográfico<!--:--><!--:en-->Personal pho
   project<!--:-->"
 date: '2012-05-26 11:35:41 +0000'
 categories:
-- My Work
+- Work
 tags:
-- fotografia
-- photo
+- photography
 comments: []
 ---
-<p><!--:es-->[fsg_gallery id="1"]</p>
-<p><a title="Huellas" href="http://www.flickr.com/photos/santopics/sets/72157629828704140/with/7703738584/" target="_blank">fuente</a><!--:--><!--:en-->[fsg_gallery id="1"]</p>
-<p><a title="Huellas" href="http://www.flickr.com/photos/santopics/sets/72157629828704140/with/7703738584/" target="_blank">source</a><!--:--></p>
+TODO
+[fsg_gallery id="1"]
+
+[source](http://www.flickr.com/photos/santopics/sets/72157629828704140/with/7703738584/ "Huellas")

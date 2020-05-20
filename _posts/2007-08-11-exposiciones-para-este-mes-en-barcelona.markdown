@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2007-08-11 16:49:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - evento
 comments:

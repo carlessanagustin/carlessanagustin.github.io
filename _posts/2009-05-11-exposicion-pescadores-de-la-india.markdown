@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2009-05-11 22:20:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - badalona
 - exposicion

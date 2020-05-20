@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2011-03-01 20:52:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - server

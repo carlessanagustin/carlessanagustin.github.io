@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2011-06-24 19:49:47 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - evento
 - fotografia

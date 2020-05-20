@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-05-11 16:17:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - india
 - mumbai

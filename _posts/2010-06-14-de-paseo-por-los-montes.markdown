@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2010-06-14 10:04:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - excursiones
 - trekking

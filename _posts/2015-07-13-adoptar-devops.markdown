@@ -11,7 +11,7 @@ excerpt: "[:es]Algunos beneficios de adoptar DevOps en nuestra empresa.[:en]Few 
   of adopting DevOps in our company[:]"
 date: '2015-07-13 18:00:27 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - devops
 - benefits

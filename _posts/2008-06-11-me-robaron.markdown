@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-06-11 01:00:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - nepal
 - pokhara

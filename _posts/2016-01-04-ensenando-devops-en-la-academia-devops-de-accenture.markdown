@@ -11,7 +11,7 @@ excerpt: "[:es]Profesor DevOps para los equipos Accenture de Europa[:en]DevOps t
   for European Accenture teams[:]"
 date: '2016-01-04 18:22:12 +0000'
 categories:
-- My Work
+- Work
 tags:
 - teach
 - curso

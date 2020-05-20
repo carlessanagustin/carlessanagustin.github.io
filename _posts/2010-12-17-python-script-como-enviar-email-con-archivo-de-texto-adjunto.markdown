@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2010-12-17 14:05:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - python

@@ -12,7 +12,7 @@ excerpt: '[:es]He creado este vídeo para demostrar lo que pasa entre ramas al h
   between branches when making "git rebase" and "git merge".[:]'
 date: '2015-10-21 17:45:25 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - git
 comments: []

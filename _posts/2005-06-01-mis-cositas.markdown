@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2005-06-01 17:36:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 comments:
 - id: 54

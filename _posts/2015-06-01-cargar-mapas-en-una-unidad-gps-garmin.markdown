@@ -11,7 +11,7 @@ excerpt: "[:es]¿Cómo cargar mapas de terreno en un GPS Garmin Dakota™ 10?[:e
   to load terrain maps into a GPS Garmin Dakota™ 10?[:]"
 date: '2015-06-01 18:00:07 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - gps
 - maps

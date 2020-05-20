@@ -10,7 +10,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2010-09-22 14:56:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - it
 - linux

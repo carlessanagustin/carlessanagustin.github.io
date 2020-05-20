@@ -11,7 +11,7 @@ excerpt: "[:es]Me gusta leer, aprender, crear, probar, analizar, ...[:en]I like 
   read, learn, create, test, analyze, ...[:]"
 date: '2015-10-06 13:35:06 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - reflexiones
 - multipotentialite

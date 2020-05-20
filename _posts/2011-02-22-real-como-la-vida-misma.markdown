@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2011-02-22 17:54:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - humor
 - it

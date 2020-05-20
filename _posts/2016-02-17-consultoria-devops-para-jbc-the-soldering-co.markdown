@@ -11,7 +11,7 @@ excerpt: "[:es]Consultoría DevOps para gestionar el ciclo de vida de su softwar
   firmware[:en]DevOps consulting to manage the lifecycle of your software and firmware[:]"
 date: '2016-02-17 17:05:55 +0000'
 categories:
-- My Work
+- Work
 tags:
 - git
 - devops

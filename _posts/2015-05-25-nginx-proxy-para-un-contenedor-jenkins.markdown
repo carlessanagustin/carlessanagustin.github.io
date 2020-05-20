@@ -12,7 +12,7 @@ excerpt: "[:es]Mapeo de puertos para acceder a contenedores a través de Virtual
   Vagrant, Ubuntu and Docker[:]"
 date: '2015-05-25 18:00:17 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - ubuntu
 - devops

@@ -9,7 +9,7 @@ author:
 author_url: http://www.carlessanagustin.com/
 date: '2008-08-20 16:07:00 +0000'
 categories:
-- My Blog
+- Blog
 tags:
 - india
 - nepal
