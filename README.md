@@ -18,7 +18,7 @@ This is my personal website based on "Type: Minimal and Clean Free Jekyll Theme"
 * Requirements: docker + make
 * From local workstation `make interactive`
 * Once inside the container run `make go`
-* See site `http://127.0.0.1:4000`
+* See site `http://127.0.0.1:4000/`
 
 ---
 

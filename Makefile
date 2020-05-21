@@ -27,4 +27,4 @@ go: install install_deps serve
 
 
 blog:
-	jekyll new ${BLOGNAME}
+	bundle exec jekyll new ${BLOGNAME}
