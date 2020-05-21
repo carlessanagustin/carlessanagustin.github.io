@@ -1,0 +1,157 @@
+/* ==========================================================================
+ Author's custom CSS: Carles San Agustin
+ ========================================================================== */
+/* ========COLORS==========
+blau: #dae8ec
+gris-general: #333333
+gris-text: #4d4d4d
+vermell: #ca3245
+ ========================== */
+/*
+button tag
+
+color:#ffffff;
+-moz-box-shadow: 0px 0px 0px #343434;
+-webkit-box-shadow: 0px 0px 0px #343434;
+-o-box-shadow: 0px 0px 0px #343434;
+box-shadow: 0px 0px 0px #343434;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+border-radius: 50px;
+border: 1px solid #ca3245;
+background:#ca3245;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ca3245", endColorstr="#ca3245");
+background-image: -webkit-gradient(linear, left top, left bottom, from(#ca3245), to(#ca3245));
+background-image: -moz-linear-gradient(top center, #ca3245, #ca3245);
+background-image: -o-linear-gradient(top, #ca3245, #ca3245);
+*/
+
+
+@blau: #dae8ec;
+@gris-general: #333333;
+@gris-text: #4d4d4d;
+@vermell: #ca3245;
+
+
+body {
+	width: 970px;
+	height: 730px;
+	color: white;
+}
+#body-all {
+	width: 970px;
+	height: 730px;
+}
+a{
+	text-decoration: none;
+}
+/* START: nav bar top */
+#header-container {
+	background-color: @vermell;
+}
+
+header nav ul {
+
+}
+header nav ul li {
+	display: block;
+	float: left;
+	text-transform: uppercase;
+	text-align: center;
+	margin-left: 8px;
+}
+#header-container a {
+	display: block;
+	color: white;
+	padding-top: 9px;
+	width: 200px;
+	height: 28px;
+}
+#header-container a:hover {
+	color: white;
+	display: block;
+	background-color: @gris-general;
+}
+#header-container .active {
+	display: block;
+	color: white;
+	background-color: @gris-general;
+}
+/* END: nav bar top */
+
+#principal-container {
+
+}
+/* START: seccion principal: main body */
+#section-principal {
+	margin: 10px;
+	background-color: green;
+	display: block;
+	height: 410px;
+}
+/* END: seccion principal: main body */
+
+/* START: footer area: noticias + twitter */
+#footer-container {
+	background-color: @blau;
+}
+#footer-tag {
+
+}
+#footer-container a{
+	color: @vermell;
+}
+
+#section-noticias {
+	width: 562px;
+	float: left;
+	margin: 10px;
+	background-color: green;
+	display: block;
+}
+#section-noticion{
+	float: left;
+	width: 50%;
+}
+#section-listado-noticias{
+	float: left;
+	width: 50%;
+}
+#section-twitter {
+	width: 368px;
+	float: left;
+	margin: 10px;
+	background-color: green;
+	display: block;
+}
+
+div#section-noticias div#section-listado-noticias h2{
+  color: @vermell;
+  a{
+    color: @vermell;
+  }
+}
+div#section-noticias div#section-noticion h2{
+  color: @vermell;
+  a{
+    color: @vermell;
+  }
+}
+/* END: footer area: noticias + twitter */
+
+button{
+  color:#ffffff;
+-moz-box-shadow: 0px 0px 0px #343434;
+-webkit-box-shadow: 0px 0px 0px #343434;
+-o-box-shadow: 0px 0px 0px #343434;
+box-shadow: 0px 0px 0px #343434;
+-moz-border-radius: 50px;
+-webkit-border-radius: 50px;
+border-radius: 50px;
+border: 1px solid #ca3245;
+background:#ca3245;
+filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ca3245", endColorstr="#ca3245");
+background-image: -webkit-gradient(linear, left top, left bottom, from(#ca3245), to(#ca3245));
+background-image: -moz-linear-gradient(top center, #ca3245, #ca3245);
+background-image: -o-linear-gradient(top, #ca3245, #ca3245);
+}

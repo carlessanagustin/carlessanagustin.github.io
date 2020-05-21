@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible">
+
+		<title>index2</title>
+		<meta content="" name="description">
+		<meta content="carles" name="author">
+
+		<meta content="width=device-width; initial-scale=1.0" name="viewport">
+
+	</head>
+
+	<body>
+
+		<iframe width="640" height="390" frameborder="0" allowfullscreen="" id="player" title="YouTube video player" src="http://www.youtube.com/embed/u1zgFlCw8Aw?enablejsapi=1&amp;origin=http%3A%2F%2Fcarlessanagustin.com"></iframe>
+
+		<script src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfldKCVEk.js" async=""></script>
+		<script src="https://www.youtube.com/iframe_api"></script>
+
+		<script>
+var tag = document.createElement('script');
+
+tag.src = "https://www.youtube.com/iframe_api";
+var firstScriptTag = document.getElementsByTagName('script')[0];
+firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+var player;
+function onYouTubeIframeAPIReady() {
+player = new YT.Player('player', {
+height: '390',
+width: '640',
+videoId: 'u1zgFlCw8Aw',
+events: {
+'onReady': onPlayerReady,
+'onStateChange': onPlayerStateChange
+}
+});
+}
+
+function onPlayerReady(event) {
+event.target.playVideo();
+}
+
+var done = false;
+function onPlayerStateChange(event) {
+if (event.data == YT.PlayerState.PLAYING &amp;&amp; !done) {
+setTimeout(stopVideo, 6000);
+done = true;
+}
+}
+function stopVideo() {
+player.stopVideo();
+}
+		</script>
+
+	</body>
+</html>

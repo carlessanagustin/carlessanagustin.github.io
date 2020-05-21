@@ -1,0 +1,241 @@
+@charset "utf-8";
+@import url(http://fonts.googleapis.com/css?family=Oswald:400,700,300|Press+Start+2P);
+
+html,body{
+	font-family: 'Press Start 2P', cursive;
+	width:100%;
+	height:100%;
+	font-size:100%;
+}
+
+.navigation{
+	position:fixed;
+	z-index:1;
+	top:20px;
+}
+.navigation li{
+	color:#333333;
+	font-size:1em;
+	display:block;
+	padding: 0 10px;
+	line-height:30px;
+	margin-bottom:2px;
+	font-weight:bold;
+	-webkit-transition: all .2s ease-in-out;
+	border-bottom:1px solid black;
+	text-align:left;
+}
+.navigation li:hover,.active{
+	font-size:1.5em;
+	cursor:pointer;
+}
+.logo{
+	position:fixed;
+	top:50%;
+	left:50%;
+	width:446px;
+	margin-top:-41px;
+	margin-left:-223px;
+	z-index:1;
+	/* if JS disabled */
+	opacity:0.4;
+}
+.slide{
+	background-attachment: fixed;
+	width:100%;
+	height:100%;
+	position: relative;
+	box-shadow:inset 0px 10px 10px rgba(0,0,0,0.3);
+}
+.wrapper{
+	/*width:960px;*/
+	width:800px;
+	height:200px;
+	margin:0 auto;
+	position:relative;
+}
+.slideno{
+	position:absolute;
+	bottom:0px;
+	left:0px;
+	font-size:100px;
+	font-weight:bold;
+	color:rgba(255,255,255,0.3);
+}
+.button{
+	display:block;
+	width:50px;
+	height:50px;
+	position:absolute;
+	bottom:0px;
+	left:50%;
+	background-color:#333333;
+	background-image:url(../images/arrow.png);
+}
+.button:hover{
+	background-color:#494949;
+	cursor:pointer;
+}
+.buttonBack{
+	display:block;
+	width:50px;
+	height:50px;
+	position:absolute;
+	bottom:0px;
+	left:50%;
+	background-color:#333333;
+	background-image:url(../images/arrow.png);
+    -moz-transform:rotate(180deg);
+    -webkit-transform:rotate(180deg);
+    -o-transform:rotate(180deg);
+    -ms-transform:rotate(180deg);
+}
+.buttonBack:hover{
+	background-color:#494949;
+	cursor:pointer;
+}
+/******************************
+ Welcome
+*******************************/
+#slide0{
+	background-color:#54CC14;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#slide0 .parallaxbg{
+	position:absolute;
+	right:20px;
+	top:40px;
+	font-size:1.2em;
+	width: 400px;
+	color:rgba(51,51,51,0.3);
+	font-family: 'Oswald', sans-serif;
+}
+/******************************
+ About Me
+*******************************/
+#slide1{
+	background-image:url(../images/raim.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#slide1 img{
+	position:absolute;
+	width:140px;
+}
+#slide1 img:first-child{
+	top: 100px;
+	left: 0px;
+}
+#slide1 img:nth-child(2){
+	top:400px;
+	left:190px;
+}
+#slide1 img:nth-child(3){
+	top:250px;
+	left:384px;
+}
+#slide1 img:nth-child(4){
+	top:400px;
+	left:576px;
+}
+#slide1 img:nth-child(5){
+	top:600px;
+	left:501px;
+}
+
+/******************************
+ My Work
+*******************************/
+#slide2{
+	background-color:#40FF40;
+}
+#slide2 img{
+	position:absolute;
+	width:180px;
+}
+#slide2 img:first-child{
+	top: 200px;
+	left: -150px;
+}
+#slide2 img:nth-child(2){
+	top:300px;
+	left:100px;
+}
+#slide2 img:nth-child(3){
+	top:500px;
+	left:350px;
+}
+#slide2 img:nth-child(4){
+	top:400px;
+	left:400px;
+}
+#slide2 img:nth-child(5){
+	top:150px;
+	right:200px;
+}
+#slide2 img:nth-child(6){
+	top:350px;
+	right:300px;
+}
+#slide2 img:nth-child(7){
+	top:400px;
+	right:100px;
+}
+#slide2 img:nth-child(8){
+	top:100px;
+	right:300px;
+}
+/******************************
+ My Blog
+*******************************/
+#slide3{
+	background-color:#CC4A14;
+}
+#slide3 img{
+	position:absolute;
+	width:180px;
+}
+#slide3 img:first-child{
+	top: 500px;
+	left: 100px;
+}
+#slide3 img:nth-child(2){
+	top:110px;
+	left:20px;
+}
+#slide3 img:nth-child(3){
+	top:150px;
+	left:320px;
+}
+#slide3 img:nth-child(4){
+	top:450px;
+	left:200px;
+}
+#slide3 img:nth-child(5){
+	top:200px;
+	left:270px;
+}
+#slide3 img:nth-child(6){
+	top:100px;
+	left:230px;
+}
+/******************************
+ Contact Me
+*******************************/
+#slide4{
+	background-image:url(../images/smile.jpg);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#slide4 .contact{
+	position:absolute;
+	right:20px;
+	top:10px;
+}

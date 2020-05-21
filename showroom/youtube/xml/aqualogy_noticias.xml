@@ -1,0 +1,44 @@
+<?xml version="1.0" standalone="yes"?>  
+<RECORDS>
+	<RECORD>
+      <i_id>1</i_id>
+      <s_enlace>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/noticia.jpg</s_enlace>
+      <s_titular_es>Feliz 2013, Año Internacional de la Cooperación</s_titular_es>
+      <txt_desc_es>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.</txt_desc_es>
+       <s_imagen>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/noticia.jpg</s_imagen>
+      <d_fecha>12/10/2013</d_fecha>
+</RECORD>
+<RECORD>
+      <i_id>2</i_id>
+      <s_enlace>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_enlace>
+      <s_titular_es>Un muro de contención y redes de impulsión, para reutilizar el agua depurada</s_titular_es>
+      <txt_desc_es>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.</txt_desc_es>
+       <s_imagen>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_imagen>
+      <d_fecha>2013/1/1</d_fecha>
+</RECORD>
+<RECORD>
+      <i_id>3</i_id>
+      <s_enlace>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_enlace>
+      <s_titular_es>Las obras incluyen una red de saneamiento</s_titular_es>
+      <txt_desc_es>El Consejo Insular de Aguas de Fuerteventura ha adjudicado a Aqualogy Medio Ambiente la renovación y ampliación de la EDAR de Betancuria. Esta depuradora, construida en 1997, no se encuentra actualmente en funcionamiento debido a problemas surgidos con su mantenimiento. Aqualogy Medio Ambiente comenzará, el próximo mes de septiembre, la ejecución del proyecto, que tiene prevista una duración de cuatro meses. Las obras incluyen una red de saneamiento, un muro de contención y redes de impulsión, para reutilizar el agua depurada. La estación depuradora cubrirá las necesidades de 900 vecinos y reciclará el agua utilizada para destinarla al riego, una actividad para la que será necesaria la impulsión y conducción desde donde se ubicará la depuradora, a una cota de 368, hasta los 420 metros, que es donde se emplazará un depósito regulador con capacidad para almacenar tres días de producción de la depuradora. Así mismo, tendrá unos depósitos cuyo caudal de partida será de 80 metros cúbicos al día (3,33 metros cúbicos por hora); además de un caudal de impulsión de 5 metros cúbicos cada 60 minutos. Este proyecto, que se suma a otros importantes contratos firmados (de asistencia técnica, suministro de materiales y gestión de aguas subterráneas), consolida la posición de Aqualogy en Canarias.</txt_desc_es>
+      <s_imagen>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_imagen>
+      <d_fecha>2013/2/1</d_fecha>
+</RECORD>
+<RECORD>
+      <i_id>6</i_id>
+      <s_enlace>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_enlace>
+      <s_titular_es>Ut wisi enim ad minim veniam quis nostrud exerci tation ullamcorper</s_titular_es>
+      <txt_desc_es>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.</txt_desc_es>
+       <s_imagen>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_imagen>
+      <d_fecha>2013/1/1</d_fecha>
+</RECORD>
+<RECORD>
+      <i_id>5</i_id>
+      <s_enlace>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_enlace>
+      <s_titular_es>Quis nostrud exerci tation ullamcorper suscipit lobortis</s_titular_es>
+      <txt_desc_es>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto.</txt_desc_es>
+       <s_imagen>http://cecilservan.com/kinton/aqualogy/yt/xml/examples/fotos/water-300.png</s_imagen>
+      <d_fecha>2013/1/1</d_fecha>
+</RECORD>
+
+</RECORDS>

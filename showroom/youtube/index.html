@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js">
+	<!--<![endif]-->
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<title>Aqualogy</title>
+		<meta name="description" content="">
+		<meta name="viewport" content="width=device-width">
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+		<link rel="stylesheet" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">
+		<!-- <link href='http://fonts.googleapis.com/css?family=Lato:300,400' rel='stylesheet' type='text/css'> -->
+
+		<!-- START: http://html5doctor.com -->
+		<link rel="stylesheet" href="css/style.css">
+		<!-- END: http://html5doctor.com -->
+
+		<!-- START: http://modernizr.com/ -->
+		<script src="js/modernizr-2.6.2-respond-1.1.0.min.js"></script>
+		<!-- END: http://modernizr.com/ -->
+
+		<!-- START: slimScroll @ http://rocha.la/jQuery-slimScroll -->
+		<script src="js/jquery.slimscroll.min.js"></script>
+		<!-- END: slimScroll @ http://rocha.la/jQuery-slimScroll -->
+
+		<!-- START: http://tweet.seaofclouds.com/ -->
+		<link rel="stylesheet" href="css/jquery.tweet.css">
+		<script src="js/jquery.tweet.js"></script>
+		<!-- END: http://tweet.seaofclouds.com/ -->
+
+		<!-- START: http://www.farinspace.com/jquery-image-preload-plugin/ -->
+		<script type="text/javascript" src="js/jquery.imgpreload.min.js"></script>
+		<!-- END: http://www.farinspace.com/jquery-image-preload-plugin/ -->
+
+		<!-- START: https://developers.google.com/youtube/iframe_api_reference -->
+<!--	<script src="https://s.ytimg.com/yts/jsbin/www-widgetapi-vfldKCVEk.js" async=""></script>-->
+		<script src="https://www.youtube.com/iframe_api"></script>
+		<!-- END: https://developers.google.com/youtube/iframe_api_reference -->
+
+		<!-- START: aqualogy -->
+		<link rel="stylesheet" href="css/main.css">
+		<script src="js/main.js"></script>
+<!-- <script src="js/youtube.js"></script> -->
+		<!-- END: aqualogy -->
+
+		<script>
+			$(function() {
+				new AqualogyClass();
+			});
+		</script>
+
+	</head>
+	<body>
+		<!--[if lt IE 7]>
+		<p class="chromeframe">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">activate Google Chrome Frame</a> to improve your experience.</p>
+		<![endif]-->
+		<div id="body-all">
+			<div id="header-container">
+				<header class="clearfix">
+					<nav>
+						<ul>
+							<li id="videos" class="active">
+								<a href="#">Vídeos</a>
+							</li>
+							<li id="fotos">
+								<a href="#">Fotos</a>
+							</li>
+							<li id="empresa">
+								<a href="#">Empresa</a>
+							</li>
+						</ul>
+					</nav>
+				</header>
+			</div>
+			<!-- #header-container -->
+			<div id="principal-container">
+				<div id="section-principal">
+					<section class="clearfix">
+						<!--zona principal-->
+					</section>
+				</div>
+				<!-- #section-principal -->
+				<div id="footer-container"  class="clearfix">
+					<footer id="footer-tag">
+						<div id="section-noticias">
+							<section>
+								<h1>noticias</h1>
+								<div id="section-noticion">
+									<section>
+
+										<article>
+											<img src="#">
+											<h2>Lorem ipsum</h2>
+											<div class="date">
+												<!--88/88/888 -->
+											</div>
+											<p>
+												<!--
+												Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+												-->
+											</p>
+											<a href="#" target="_blank"><span class="leer_mas">Leer más</span></a>
+										</article>
+
+									</section>
+								</div>
+								<div id="section-listado-noticias">
+									<section>
+										<ul>
+											<li>
+												<h2><a href="#">Lorem ipsum</a></h2>
+												<p>
+													<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit.--
+													</p>
+													</li>
+													<li>
+													<h2><a href="#">Lorem ipsum</a></h2>
+													<p>
+													<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit.--
+													</p>
+													</li>
+													<li>
+													<h2><a href="#">Lorem ipsum</a></h2>
+													<p>
+													<!--Lorem ipsum dolor sit amet, consectetur adipiscing elit.-->
+												</p>
+											</li>
+										</ul>
+										<button>
+											más noticias
+										</button>
+									</section>
+								</div>
+							</section>
+						</div>
+						<!-- #section-noticias -->
+						<div id="section-twitter">
+							<section>
+								<h1>twitter</h1>
+								<div id="pre-tweet">
+									<div class="tweet"></div>
+								</div>
+							</section>
+						</div>
+						<!-- #section-twitter -->
+					</footer>
+				</div>
+				<!-- #footer-container -->
+			</div>
+			<!-- #principal-container -->
+		</div>
+		<div id="preloadArea"></div>
+		<!-- #body-all -->
+
+		<!--
+		<script>
+		var _gaq=[['_setAccount','UA-XXXXX-X'],['_trackPageview']];
+		(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+		g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+		s.parentNode.insertBefore(g,s)}(document,'script'));
+		</script>
+		-->
+	</body>
+</html>

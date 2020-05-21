@@ -1,0 +1,535 @@
+/* ==========================================================================
+ Author's custom CSS: Carles San Agustin
+ ========================================================================== */
+/* ========COLORS==========
+ blau: #dae8ec
+ gris-general: #333333
+ gris-text: #4d4d4d
+ vermell: #ca3245
+ ========================== */
+@import url(http://fonts.googleapis.com/css?family=Lato:400,300);
+
+p#mas_videos a {
+    background: url("../img/button_nav_siguiente1.png") no-repeat scroll 216px 0 transparent;
+    color: #4D4D4D;
+    display: inline-block;
+    height: 25px;
+    padding-top: 3px;
+    margin-top: 8px;
+    text-decoration: none;
+    width: 300px;
+}
+/* ul.video-list li + li { */
+ul.video-list li {
+    border-bottom: thin dashed #989595;
+}
+ul.video-list {
+    margin-top: -10px;
+    overflow: hidden;
+}
+ul.video-list li {
+	height: 80px;
+	padding: 5px 0 5px 17px;
+}
+ul.video-list li img{
+	float: left;
+	margin-right: 10px;
+}
+ul.video-list li h2{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 5px;
+    margin-top: 2px;
+}
+ul.video-list li p {
+    color: #4D4D4D;
+    margin-bottom: 7px;
+    margin-top: 2px;
+}
+ul.video-list li a {
+    color: #CA3245;
+}
+
+/* ====================== classes ====================== */
+.clear_both { clear: both; line-height: 1px; }
+.active{
+	background-color: #81A8C6;
+}
+.hid{
+	display: none;
+}
+.date {
+	margin: 0.5em 0;
+	font-weight: 400;
+	font-size: 12px;
+}
+.vermell{
+	color: #ca3245
+}
+.gris{
+	color: #4d4d4d;
+}
+.vermell:hover{
+	color: #ca3245
+}
+.gris:hover{
+	color: #4d4d4d;
+}
+.nano .content { padding: 10px; }
+/*
+.nano { background: #bba; width: 500px; height: 500px; }
+.nano .pane   { background: #888; }
+.nano .slider { background: #111; }
+*/
+/* ====================== classes: arrows ====================== */
+.arrow-right{
+	background: url("../img/button_nav_siguiente1.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-right:hover{
+	background: url("../img/button_nav_siguiente1_over.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-rightd{
+	background: url("../img/button_nav_siguiente2.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-rightd:hover{
+	background: url("../img/button_nav_siguiente2_over.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-left{
+	background: url("../img/button_nav_anterior1.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-left:hover{
+	background: url("../img/button_nav_anterior1_over.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-leftd{
+	background: url("../img/button_nav_anterior2.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+.arrow-leftd:hover{
+	background: url("../img/button_nav_anterior2_over.png") no-repeat scroll 0 center transparent;
+	height:20px;
+	width: 20px;
+	display: block;
+}
+/* div#section-listado-noticias section ul.noticias-list a span.mas_noticias */
+.mas_noticias{
+	background: url("../img/button_masnoticias.png") no-repeat scroll 0 center transparent;
+	width: 98px;
+	height:27px;
+	display: block;
+	color: white;
+    font-weight: 400;
+    margin: 0 0 10px;
+    padding-left: 15px;
+    padding-top: 12px;
+    float: right;
+}
+.mas_noticias:hover{
+	background: url("../img/button_masnoticias_over.png") no-repeat scroll 0 center transparent;
+}
+/* div#section-noticias section div#section-noticion section article a span.leer_mas */
+.leer_mas{
+	background: url("../img/button_leermas.png") no-repeat scroll 0 center transparent;
+	width: 82px;
+	height:27px;
+	display: block;
+	color: white;
+    font-weight: 400;
+    margin: 0 0 10px;
+    padding-left: 15px;
+    padding-top: 12px;
+    float: right;
+}
+.leer_mas:hover{
+	background: url("../img/button_leermas_over.png") no-repeat scroll 0 center transparent;
+}
+p#mas_info{
+	margin-top: 20px;
+}
+p#mas_info a{
+	background: url("../img/button_nav_siguiente1.png") no-repeat scroll 195px 0 transparent;
+	height: 25px;
+	width: 300px;
+	display: inline-block;
+	padding-top: 3px;
+	text-decoration: none;
+	color: #4d4d4d;
+}
+
+#preloadArea{
+	display:none;
+}
+
+/* ====================== ids ====================== */
+body {
+	width: 970px;
+	height: 730px;
+	color: #4d4d4d;
+	line-height: 115%;
+	/*font-size: small;*/
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+	/*font-family: Arial, Helvetica, sans-serif;*/
+	/*font-family: "Lucida Console", Monaco, monospace;*/
+}
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 400;
+}
+#body-all {
+	width: 970px;
+	height: 730px;
+}
+a {
+	text-decoration: none;
+}
+iframe {
+    margin-left: -25px;
+}
+/* ====================== START: nav bar top ====================== */
+#header-container {
+	background-color: #ca3245;
+	height: 50px;
+}
+#header-container a {
+	display: block;
+	color: white;
+	/*padding-top: 9px;*/
+	width: 150px;
+	padding-top: 18px;
+	height: 32px;
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 14px;
+}
+#header-container a:hover {
+	color: white;
+	display: block;
+	background-color: #333;
+}
+#header-container .active {
+	display: block;
+	color: white;
+	background-color: #333;
+}
+#header-container header nav ul li {
+	display: block;
+	float: left;
+	/*margin-left: 8px;*/
+}
+/* ====================== END: nav bar top ====================== */
+
+
+/* ====================== START: section-principal-side ====================== */
+/*
+div#section-principal div#section-principal-side ul.videos-list li {
+	border-bottom: thin dashed #989595;
+}
+div#section-principal div#section-principal-side ul.videos-list li img{
+	display: block;
+	float: left;
+	margin: 0 5px 5px 0;
+}
+div#section-principal div#section-principal-side ul.videos-list li h2{
+	margin: 5px;
+	display: block;
+}
+div#section-principal div#section-principal-side ul.videos-list li p{
+	display: block;
+}
+*/
+div#section-principal div#section-principal-main img{
+	width: 490px;
+	height: 340px;
+}
+div#section-principal div#section-principal-side ul {
+	padding: 0;
+}
+div#section-principal div#section-principal-side ul.fotos-list li {
+	float: right;
+	padding: 0;
+	margin: 0 0 9px 15px;
+}
+div#section-principal div#section-principal-side ul.fotos-list li img {
+	width: 150px;
+	height: 106px;
+}
+div#section-principal div#section-principal-side ul.empresa-list li {
+	margin: 0;
+	padding: 0;
+}
+div#section-principal section h1{
+	text-transform: uppercase;
+	border-bottom: thin solid #ca3245;
+	color: #ca3245;
+	font-size: 20px;
+	padding-bottom: 10px;
+	margin: 10px 20px 10px 0;
+}
+div#section-principal-side section h1{
+	text-transform: none;
+}
+div#section-noticias section div#section-noticion section article img{
+	width: 276px;
+}
+div#section-principal div#section-principal-main section p{
+	padding: 0 15px 15px 0;	
+}
+/* ====================== START: thumbs side pagination ====================== */
+div#section-principal div#section-principal-side section ul.fotos-list{
+	display:none;
+}
+
+div#section-principal div#section-principal-side section ul#fPage_0{  /*:first-of-type :first-child   #fPage_0  */
+	display:block;
+}
+
+div#section-principal div#section-principal-side div#paginacion{
+	margin: 0 100px;
+	width: 340px;
+/*	
+	bottom: 0;
+	display:block;
+	float:left;
+	margin-left: 100px;
+*/
+}
+div#section-principal div#section-principal-side div#paginacion span{
+	float: left;
+	margin-right: 10px;
+	padding-top: 5px;
+}
+div#section-principal div#section-principal-side div#paginacion a{
+	margin: 0 3px;
+}
+/* ====================== END: thumbs side pagination ====================== */
+
+/* ====================== START: empresa links ====================== */
+
+div#section-principal div#section-principal-side section ul#empresa_links{
+	display:block;
+	margin-left: 40px;
+	margin-top: 30px;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li{
+	display:block;
+	float: left;
+	height: 33px;
+	padding: 0;
+	margin-bottom: 7px;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a.empresa_link { 
+	background: url("../img/button_link_link.png") no-repeat scroll 0 center transparent;
+
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a.empresa_link:hover{
+	background: url("../img/button_link_link_over.png") no-repeat scroll 0 center transparent;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a{
+	display: block;
+	height: 33px;
+	width: 260px;
+	color: white;	
+	padding-left: 20px;
+	font-weight: 300;
+	line-height: 33px;
+	font-size: 14px;
+}
+/* twitter */
+div#section-principal div#section-principal-side section ul#empresa_links li a#twitter{
+	background: url("../img/button_link_twitter.png") no-repeat scroll 0 center transparent;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a#twitter:hover{
+	background: url("../img/button_link_twitter_over.png") no-repeat scroll 0 center transparent;
+}
+/* linkedin */
+div#section-principal div#section-principal-side section ul#empresa_links li a#linkedin{
+	background: url("../img/button_link_linkedin.png") no-repeat scroll 0 center transparent;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a#linkedin:hover{
+	background: url("../img/button_link_linkedin_over.png") no-repeat scroll 0 center transparent;
+}
+/* gmaps */
+div#section-principal div#section-principal-side section ul#empresa_links li a#gmaps{
+	background: url("../img/button_link_maps.png") no-repeat scroll 0 center transparent;
+}
+div#section-principal div#section-principal-side section ul#empresa_links li a#gmaps:hover{
+	background: url("../img/button_link_maps_over.png") no-repeat scroll 0 center transparent;
+}
+
+/* ====================== END: section-principal-side ====================== */
+
+/* ====================== END: seccion principal ====================== */
+
+/* ====================== START: footer area: noticias + twitter ====================== */
+#footer-container {
+	color: #4d4d4d;
+	background-color: #dae8ec;
+	height: 392px;
+	overflow: hidden;
+}
+#footer-container a {
+	color: #ca3245;
+}
+div#section-noticias button {
+	float: right;
+}
+div#section-noticion h2 {
+	margin-top: 0.5em;
+	font-weight: 400;
+	font-size: 18px;
+	line-height: 17px;
+	color: #ca3245;
+}
+#section-listado-noticias ul {
+	margin-left: 13px;
+	/*list-style:url("../img/bullet-red.png") outside;*/
+/*	list-style: disc outside;*/
+}
+#section-listado-noticias ul li {
+	padding: 5px 0 5px 17px;
+	background:	url("../img/bullet-red.png") no-repeat scroll 2px 12px transparent;	
+}
+#section-listado-noticias ul li + li { 
+	border-top: thin dashed #989595;  
+}
+
+#section-listado-noticias ul li:last-child {
+	border-bottom: none;
+}
+div#section-listado-noticias ul li a {
+	color: #ca3245;
+}
+div#section-listado-noticias ul li a:hover {
+	color: #4d4d4d;
+}
+div#section-listado-noticias ul li a h2 {
+	margin-top: 2px;
+	margin-bottom: 5px;
+	font-size: 16px;
+	font-weight: 400;
+}
+div#section-listado-noticias ul li a p {
+	color: #4d4d4d;
+	margin-top: 2px;
+	margin-bottom: 7px;
+}
+
+div#footer-container h1 {
+	color: #4d4d4d;
+	text-transform: uppercase;
+	margin: 1em 0;
+}
+div#section-noticias h1{
+	background: url('../img/icon_news.png') no-repeat 0;
+	padding:8px 0 0 30px;
+	height: 20px;
+	font-size: 19px;
+}
+div#section-twitter h1{
+	background: url('../img/icon_twitter.png') no-repeat 0;
+	padding-left: 35px;
+	height: 20px;
+	font-size: 20px;
+}
+#pre-tweet{
+	background-color: white;
+    border-radius: 0.5em 0.5em 0.5em 0.5em;
+    margin: 0;
+    padding: 10px;
+}
+/* ====================== END: footer area: noticias + twitter ====================== */
+
+/* ====================== START: section-principal ====================== */
+#section-principal {
+	height: 400px;
+	padding: 20px 40px 0 40px;
+}
+#section-principal ul {
+	list-style: none;
+}
+#section-principal ul li {
+	color: #4d4d4d;
+	padding: 5px 0;
+}
+#section-principal ul li a{
+	color: #ca3245;
+}
+#section-principal-side{
+	/*height: 390px;
+	margin: 5px 5px 0 0;*/
+}
+
+/* ====================== START: positioning ====================== */
+#section-principal-main{
+	float: left;
+	width: 550px;
+}
+#section-principal-side{
+	float: right;
+	width: 340px;
+}
+#footer-container {
+	position: relative;
+}
+#section-noticias {
+	position: absolute;
+	width: 610px;
+	margin-left: 15px;
+}
+#section-noticion {
+	float: left;
+	width: 280px;
+	margin: 0;
+}
+#section-listado-noticias {
+	float: left;
+	width: 280px;
+}
+#section-twitter {
+	float: right;
+	width: 350px;
+	margin-right: 15px;
+}
+/* ====================== END: positioning ====================== */
+
+/* tools */
+button {
+	color: #ffffff;
+	-moz-box-shadow: 0px 0px 0px #343434;
+	-webkit-box-shadow: 0px 0px 0px #343434;
+	-o-box-shadow: 0px 0px 0px #343434;
+	box-shadow: 0px 0px 0px #343434;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	border: 1px solid #ca3245;
+	background: #ca3245;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ca3245", endColorstr="#ca3245");
+	background-image: -webkit-gradient(linear, left top, left bottom, from(#ca3245), to(#ca3245));
+	background-image: -moz-linear-gradient(top center, #ca3245, #ca3245);
+	background-image: -o-linear-gradient(top, #ca3245, #ca3245);
+	margin: 1em;
+}
+
