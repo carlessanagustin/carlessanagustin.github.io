@@ -1,7 +1,7 @@
 ---
 layout: page
 status: publish
-published: true
+published: false
 title: "Legal Notice"
 author:
   display_name: Carles San Agustin
